@@ -10,10 +10,10 @@
 - [Recommendations](#recommendations)
 
 
-#### Project Overview
+### Project Overview
 The purpose of this sales dashboard is to present an overview of the sales metrics and trends in order to analyze the year-over-year sales performance and to understand sales trends
 
-##### Key Requirements
+#### Key Requirements
 
 ##### KPI Overview
 Display a summary of total sales,profits and quantity the current  and previous years 
