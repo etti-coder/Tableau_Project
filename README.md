@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Project Overview](project-overview)
-- [Results/Findings](results/-findings)
+- [Project Overview](#project-overview)
+- [Findings](#findings)
 
 
 #### Project Overview
@@ -44,7 +44,7 @@ EDA involves the exploriring the data to answer key questions, such as:
 - Identifying Top products and customers
 - Average sales overtime
 
-### Results/Findings
+### Findings
 
   Some of the analysis results are as follows:
   
