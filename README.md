@@ -2,12 +2,7 @@
 
 ### Table of contents
 
-- [Project Overview](project-overview)
-- [Analyse Requirements](analyse-requirements)
-- [Data Source](data-source)
-- [Explanatory Data Analysis](explanatory-data-analysis)
-- [Results/Findings](results/-findings)
-- [Recommedations](recommendations)
+
 
 
 #### Project Overview
