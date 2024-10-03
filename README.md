@@ -50,6 +50,9 @@ EDA involves the exploriring the data to answer key questions, such as:
 
 ### Findings
 
+
+
+
   Some of the analysis results are as follows:
   
   1.Total number of customers have been staeadly increasing overtime especailly during the festive period
