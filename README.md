@@ -38,7 +38,7 @@ Display a summary of total sales,profits and quantity the current  and previous 
 
 ### Data source
 - Connect to data source("Sales_data.csv"file)
-- Cleand and prepare data(Rename fields and colunms,change data types,merge cloumns)etc
+- Clean and prepare data(Rename fields and colunms,change data types,merge cloumns)etc
 - Analyse data(understand data, create calculated fields)etc
 - Create a data model
   
